@@ -1,0 +1,21 @@
+{
+  "name": "☠️BEOWULF☠️-MD",
+  "description": "☠️BEOWULF☠️-MD WhatsApp bot made by ArslanMD official",
+  "logo": "https://n.uguu.se/BlGoHUJU.jpg",
+  "keywords": ["bot","☠️BEOWULF☠️-MD","Arslan-MD"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+        "description": "Put the ☠️BEOWULF☠️-MD session-id here.",
+        "required": true
+    }
+},
+
+"buildpacks": [
+    {
+        "url": ""
+    }
+],
+"stack": "heroku-24"
+}

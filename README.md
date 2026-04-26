@@ -1,11 +1,11 @@
-# https://i.imgur.com/dBaSKWF.gif# GENTILL-MD
+# GENTILL-MD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ☠️BEOWULF☠️ 😎👻
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "<a href="https://ibb.co/cX8YvTHW"><img src="https://i.ibb.co/sJ1WP3GT/grok-1768849886162.jpg" alt="grok-1768849886162" border="0"></a>"  width="300" height="200">
+<img src = "<a href="https://ibb.co/cX8YvTHW"><img src="https://i.ibb.co/sJ1WP3GT/grok-1768849886162.jpg" alt="grok-1768849886162" border="0"
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=GENTILL-MD+MD+WHATSAPP+BOT+MD" alt="">

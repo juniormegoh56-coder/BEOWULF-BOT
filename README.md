@@ -16,6 +16,8 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
   <a href="https://github.com/juniormegoh56/GENTILL-MD/fork"><img title="GENTILL-MD" src="https://img.shields.io/badge/FORK-GENTILL-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>

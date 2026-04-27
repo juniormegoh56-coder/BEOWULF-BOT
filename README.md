@@ -60,7 +60,7 @@
 <h3 align-"center"> Important</h3>
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-```
+```<a href="https://ibb.co/Hf5pSTfx"><img src="https://i.ibb.co/Tx9qfMxb/grok-1768329861166.jpg" alt="grok-1768329861166" border="0"></a>
 name: Node.js CI
 
 on:
@@ -95,7 +95,8 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a href = "#">
+<img src = "<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ### Thank You Dear
 
